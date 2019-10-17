@@ -1,6 +1,7 @@
 .ui.borderless.topmenu.container.menu {
   box-shadow: none;
   border: none;
+  padding-bottom: 0;
 }
 .middle-background {
   background: url('http://murphyshawaii.com/media/2014/04/murphys-front.jpg') no-repeat center center fixed;
